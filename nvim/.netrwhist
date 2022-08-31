@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/cloudmist/.config/chromium'
+let g:netrw_dirhist_9='/home/cloudmist/study/Rust_learning/Reread_TRPL/minigrep'
+let g:netrw_dirhist_8='/home/cloudmist/study/Rust_learning/Reread_TRPL/e111_user_define_meg/src'
+let g:netrw_dirhist_7='/home/cloudmist/study/Rust_learning/Reread_TRPL/minigrep'
+let g:netrw_dirhist_6='/home/cloudmist/.local/applications/dwm/st-0.8.4'
+let g:netrw_dirhist_5='/home/cloudmist/study/Rust_learning/Reread_TRPL/e13_hello_cargo'
+let g:netrw_dirhist_4='/home/cloudmist/study/Rust_learning/Reread_TRPL/e13_hello_cargo/target'
+let g:netrw_dirhist_3='/home/cloudmist/pythonmd'
+let g:netrw_dirhist_2='/home/cloudmist/study/myblog/source/_posts/PlanForThisTerm'
+let g:netrw_dirhist_1='/home/cloudmist/Documents'
